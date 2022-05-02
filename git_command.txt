@@ -1,0 +1,8 @@
+PS E:\arsh_goyal_DSA_sheet> git add .
+PS E:\arsh_goyal_DSA_sheet> git commit -m "second file first commit"    
+[master 1dc1b04] second file first commit
+ 1 file changed, 5 insertions(+)
+ create mode 100644 question_02.cpp
+PS E:\arsh_goyal_DSA_sheet> git push origin master
+
+
